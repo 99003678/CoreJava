@@ -1,4 +1,4 @@
-
+package workspace;
 import java.util.*;
 public class Great
 {

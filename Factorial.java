@@ -8,7 +8,7 @@ public class Factorial
         int a, i,b=0;;
  
        
-        int length1 = String.valueOf(m).length();
+        int length1 = String.valueOf(m).length();//
 		int[] max=new int[length1];
         while(m > 0)
         {
